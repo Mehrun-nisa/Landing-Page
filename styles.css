@@ -101,3 +101,21 @@ margin-bottom: 20px;
 {
     color: rgb(9, 144, 255);
 }
+.Map
+{
+    background-image: url("/images/places/image.png");
+    height: 400px;
+    background-size:contain;
+    margin: 16px;
+}
+#t1
+{
+    padding: 100px;
+    text-align: center;
+    margin-bottom: -52px;
+    text-transform: uppercase;
+ 
+    font-size: 35px;
+    color: rgb(59, 65, 64);
+    
+}
