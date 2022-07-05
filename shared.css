@@ -37,17 +37,13 @@ footer {
     padding: 1px;
   }
   
-  footer ul {
-    display: flex;
-    justify-content: right;
-    list-style: none;
-  }
-  
-  footer li {
-    width: 80px;
-    height: 80px;
-    margin:31px -25px;
-  }
+
+  footer .fb {
+    width: 72px;
+    height: 84px;
+    margin: -14px;
+    margin-left: 828px;
+}
   
   footer img {
     width: 20%;
