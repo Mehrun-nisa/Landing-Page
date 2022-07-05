@@ -58,4 +58,46 @@ margin-bottom: 20px;
   .destination img
 {
     height: 200px;
+    width: 300px;
+    box-shadow: 2px 4px 7px rgb(124, 122, 122);
+    border-radius: 7px;
+    object-fit: fill;
+}
+
+.destination
+{
+    margin: 0 50px;
+    text-transform: uppercase;
+}
+#highlights h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(59, 65, 64);
+    margin: -22px 0;
+    padding-top: 120px;
+  }
+  #highlights
+  {
+    height: 600px;
+    margin: 22px 0;
+    background-color: rgba(233, 230, 230, 0.726);
+  }
+  #highlights p {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(59, 65, 64);
+    margin: 24px 0px;
+    
+  }
+.destination p
+{
+    text-align: center;
+    margin: 10px;
+    font-size: 12px;
+    color: rgba(29, 28, 28, 0.466);
+}
+.destination strong
+{
+    color: rgb(9, 144, 255);
 }
